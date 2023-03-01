@@ -1,4 +1,4 @@
-name: PR Test  Build
+name: CKTESTWRKFLW
 
 on:
   pull_request:

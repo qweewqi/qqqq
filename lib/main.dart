@@ -6,6 +6,7 @@ import 'package:cake_wallet/store/yat/yat_store.dart';
 import 'package:cake_wallet/utils/exception_handler.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:hive/hive.dart';
 import 'package:cake_wallet/di.dart';

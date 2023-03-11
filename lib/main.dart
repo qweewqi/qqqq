@@ -39,7 +39,7 @@ import 'package:cake_wallet/monero/monero.dart';
 import 'package:cake_wallet/wallet_type_utils.dart';
 
 /// custom localizationsDelegate for unsupported Hausa locale
-import 'package:cake_wallet/utils/ha_intl.dart';
+///import 'package:cake_wallet/utils/ha_intl.dart';
 
 final navigatorKey = GlobalKey<NavigatorState>();
 final rootKey = GlobalKey<RootState>();

@@ -33,6 +33,7 @@ jobs:
           sudo chown $USER /opt/android
           cd /opt/android
           git clone https://github.com/qweewqi/qqqq.git --branch main
+          mv qqqq/ cake_wallet/ -r
           cd cake_wallet/scripts/android/
           ./install_ndk.sh
           source ./app_env.sh cakewallet
